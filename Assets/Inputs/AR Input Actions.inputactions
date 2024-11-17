@@ -1,0 +1,34 @@
+{
+    "name": "AR Input Actions",
+    "maps": [
+        {
+            "name": "ARTouchActions",
+            "id": "ace405d0-efcb-40fd-9f0d-9708f80c229e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "94f13087-bdcc-4064-b0ce-1e5c4838f498",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9d853755-c4f3-477c-b12f-16177c30d0dc",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5091751891013517178
+  m_GuidHigh: 2767443175556906687
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5273132047043159822
+      m_GuidHigh: 1424724542806099329
+    m_SerializedTextureGuid:
+      m_GuidLow: 8265428913518845944
+      m_GuidHigh: 9464541975312550472
+    m_Size: {x: 0.15, y: 0.26666668}
+    m_SpecifySize: 1
+    m_Name: Lab
+    m_Texture: {fileID: 2800000, guid: 02889ff8b3ce72b4484a4700c8ce5883, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5061488420873527880
+      m_GuidHigh: 9699819357273389216
+    m_SerializedTextureGuid:
+      m_GuidLow: 14052359598331070730
+      m_GuidHigh: 2912177713902591288
+    m_Size: {x: 0.15, y: 0.10061539}
+    m_SpecifySize: 1
+    m_Name: accommodation_1
+    m_Texture: {fileID: 2800000, guid: 2293090a029ac304381df98f33226a28, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5342539045047650282
+      m_GuidHigh: 3064329613412171952
+    m_SerializedTextureGuid:
+      m_GuidLow: 11485472406085628650
+      m_GuidHigh: 306433603412469211
+    m_Size: {x: 0.15, y: 0.20026179}
+    m_SpecifySize: 1
+    m_Name: restaurant_3
+    m_Texture: {fileID: 2800000, guid: fa48f2ea984c9f64dba5a41ebdab4004, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5294236346222200973
+      m_GuidHigh: 1961020526995850386
+    m_SerializedTextureGuid:
+      m_GuidLow: 12633752610979064659
+      m_GuidHigh: 9541091673374030873
+    m_Size: {x: 0.15, y: 0.16075}
+    m_SpecifySize: 1
+    m_Name: attraction_1
+    m_Texture: {fileID: 2800000, guid: 2d922b531b10af54197ce57853c46884, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5210523714891695896
+      m_GuidHigh: 2553950005207344047
+    m_SerializedTextureGuid:
+      m_GuidLow: 13120272393206308882
+      m_GuidHigh: 8172125533082265274
+    m_Size: {x: 0.15, y: 0.112500004}
+    m_SpecifySize: 1
+    m_Name: attraction_2
+    m_Texture: {fileID: 2800000, guid: 396d2012923ab614baa644e3df386971, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5667323398748425970
+      m_GuidHigh: 14197140365493147022
+    m_SerializedTextureGuid:
+      m_GuidLow: 2000805038088003458
+      m_GuidHigh: 11782938830839377563
+    m_Size: {x: 0.15, y: 0.09990235}
+    m_SpecifySize: 1
+    m_Name: attraction_3
+    m_Texture: {fileID: 2800000, guid: d80c1f8249941bc49b6e561e706885a3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4764905849255481237
+      m_GuidHigh: 6714302982862465682
+    m_SerializedTextureGuid:
+      m_GuidLow: 11170299530481917871
+      m_GuidHigh: 18182408114595975944
+    m_Size: {x: 0.15, y: 0.09990235}
+    m_SpecifySize: 1
+    m_Name: attraction_4
+    m_Texture: {fileID: 2800000, guid: 7d165fafe03d9b040853ac7fd8e354fc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5289387629198439311
+      m_GuidHigh: 9025343611291522962
+    m_SerializedTextureGuid:
+      m_GuidLow: 366016495068918859
+      m_GuidHigh: 17346774025310478283
+    m_Size: {x: 0.15, y: 0.08219179}
+    m_SpecifySize: 1
+    m_Name: attraction_5
+    m_Texture: {fileID: 2800000, guid: 2284344b5a100514cb9f9aa1111fbcf0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4974906050079105393
+      m_GuidHigh: 15039040822527603098
+    m_SerializedTextureGuid:
+      m_GuidLow: 2189937815575209008
+      m_GuidHigh: 16857110187294497033
+    m_Size: {x: 0.15, y: 0.075313814}
+    m_SpecifySize: 1
+    m_Name: attraction_6
+    m_Texture: {fileID: 2800000, guid: 298e243038d71e6409994e0d677cf0e9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4902788366996498036
+      m_GuidHigh: 2572038508904586921
+    m_SerializedTextureGuid:
+      m_GuidLow: 730834713261743035
+      m_GuidHigh: 1481524411724935242
+    m_Size: {x: 0.15, y: 0.10166016}
+    m_SpecifySize: 1
+    m_Name: accommodation_2
+    m_Texture: {fileID: 2800000, guid: b17d9bbb724c0a244a30ef5e9a6e8f14, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5022619545877224698
+      m_GuidHigh: 10118746158420801157
+    m_SerializedTextureGuid:
+      m_GuidLow: 17984141187960802537
+      m_GuidHigh: 3165120091384215515
+    m_Size: {x: 0.15, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: accommodation_3
+    m_Texture: {fileID: 2800000, guid: 5ae00ce98120f994db77681ef4c3ec2b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5301903997149224571
+      m_GuidHigh: 4210353558539520692
+    m_SerializedTextureGuid:
+      m_GuidLow: 3540986655168711412
+      m_GuidHigh: 3567006752440313258
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: accommodation_4
+    m_Texture: {fileID: 2800000, guid: 17bacaf41c9a3124aae59f16be8d8031, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4979738443312684670
+      m_GuidHigh: 4459645049908088197
+    m_SerializedTextureGuid:
+      m_GuidLow: 7954761936151768275
+      m_GuidHigh: 7930471134236627515
+    m_Size: {x: 0.15, y: 0.084375}
+    m_SpecifySize: 1
+    m_Name: accommodation_5
+    m_Texture: {fileID: 2800000, guid: b51fecd3fdd56e643bd2a9a97ab10e6e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5432961265815281788
+      m_GuidHigh: 13132479920261446070
+    m_SerializedTextureGuid:
+      m_GuidLow: 15885460046128751274
+      m_GuidHigh: 8265746606001291417
+    m_Size: {x: 0.15, y: 0.15130058}
+    m_SpecifySize: 1
+    m_Name: accommodation_6
+    m_Texture: {fileID: 2800000, guid: 472a22aa7dbfdc749900198ebed4b572, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5688202700976022744
+      m_GuidHigh: 15759923299933638298
+    m_SerializedTextureGuid:
+      m_GuidLow: 17331031405282430330
+      m_GuidHigh: 111118202968279915
+    m_Size: {x: 0.15, y: 0.0709375}
+    m_SpecifySize: 1
+    m_Name: restaurant_1
+    m_Texture: {fileID: 2800000, guid: 46ff8d7a313df0846b0b01b86ac58a01, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4950527258884821440
+      m_GuidHigh: 11520628640420679297
+    m_SerializedTextureGuid:
+      m_GuidLow: 1334426934992622488
+      m_GuidHigh: 8519878249497032392
+    m_Size: {x: 0.15, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: restaurant_2
+    m_Texture: {fileID: 2800000, guid: 2ef2d398d63a1284c8f6d8ae20b03c76, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4921825640881908663
+      m_GuidHigh: 17600310121797381538
+    m_SerializedTextureGuid:
+      m_GuidLow: 13723776076745161426
+      m_GuidHigh: 3430339908872356857
+    m_Size: {x: 0.15, y: 0.071062505}
+    m_SpecifySize: 1
+    m_Name: restaurant_4
+    m_Texture: {fileID: 2800000, guid: 4f663ad2a5a1be74f9c32eeff8039b2f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5515367598394904148
+      m_GuidHigh: 2065360307114188465
+    m_SerializedTextureGuid:
+      m_GuidLow: 8544463610060934047
+      m_GuidHigh: 15993433014745280313
+    m_Size: {x: 0.15, y: 0.20006251}
+    m_SpecifySize: 1
+    m_Name: restaurant_5
+    m_Texture: {fileID: 2800000, guid: 01ef0b9f0862769439afe50e9716f4dd, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5064527211318095552
+      m_GuidHigh: 13348006098136838842
+    m_SerializedTextureGuid:
+      m_GuidLow: 5103854063217954229
+      m_GuidHigh: 2828631260990864714
+    m_Size: {x: 0.15, y: 0.112500004}
+    m_SpecifySize: 1
+    m_Name: restaurant_6
+    m_Texture: {fileID: 2800000, guid: a78a4db5883a46d44afdec2725514127, type: 3}
