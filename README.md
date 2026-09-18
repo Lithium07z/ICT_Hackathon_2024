@@ -10,6 +10,26 @@ AIR Explorer는 **AI 기반 맞춤형 여행 추천**과 **AR 기반 현장 관�
 
 ---
 
+# 🎬 Demo
+
+▶️ **AIR Explorer 시연 영상**
+
+[YouTube에서 시연 영상 보기](https://youtu.be/E2cJZW3VAM0?si=nlofHNz6FO-pLcJ9)
+
+시연 영상에서는 다음과 같은 AIR Explorer의 전체 사용자 경험을 확인할 수 있습니다.
+
+- AI 기반 여행 코스 추천
+- 지도 기반 추천 경로 확인
+- GPS + AR Marker 기반 관광지 인식
+- AR 가이드 캐릭터 「해키」
+- 관광 정보 및 음성 안내
+- AR 스탬프 획득
+- 스탬프 기록 및 리더보드
+
+> 현재 GitHub 저장소에는 시연 영상에 포함된 전체 시스템 중 **Unity AR 모듈만 공개되어 있습니다.**
+
+---
+
 ## 🏆 Project Information
 
 | 항목              | 내용                          |
